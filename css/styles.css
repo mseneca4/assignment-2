@@ -1,0 +1,31 @@
+body {
+    color: purple;
+    background-color:light gray;
+    font-family: fantasy;
+
+}
+
+.black-span{ 
+color:black;
+}
+ 
+.centered {
+
+    padding: 11px 11px 11px 11px;
+    border: 2px solid;
+    margin: 0 auto 0 auto;
+    width: 80%;
+}
+
+#new {
+
+    color: black;
+    font-style: italic;
+    font-size: 4em;
+    border: 8px dotted black
+}
+
+img {
+
+    border: 4px dotted black
+}
